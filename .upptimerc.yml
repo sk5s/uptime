@@ -7,6 +7,8 @@ sites:
     url: https://www.sk5s.cyou/
   - name: alsoweather-website
     url: https://www.sk5s.cyou/alsoweather/
+  - name: sk5short-website
+    url: https://www.sk5s.cyou/sk5short/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
