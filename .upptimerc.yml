@@ -25,7 +25,7 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER
     - title: sk5s site
-      href: https://www.sk5s.cyou/
+      href: https://sk5s.cyou/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
