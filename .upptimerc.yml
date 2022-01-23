@@ -18,7 +18,7 @@ status-website:
   logoUrl: https://i.imgur.com/3LvCEXa.png
   name: sk5s uptime
   introTitle: "**sk5s project** uptime monitor and status page."
-  introMessage: This is a website status page
+  introMessage: ![](https://sk5s.cyou/sk5s/ad/sk5s-project.gif)
   navbar:
     - title: Status
       href: /
