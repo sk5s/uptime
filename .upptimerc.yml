@@ -9,6 +9,10 @@ sites:
     url: https://sk5s.cyou/alsoweather/
   - name: sk5short-website
     url: https://sk5s.cyou/sk5short/
+  - name: parking-go-website
+    url: https://parking-go.surge.sh/
+  - name: countdate-website
+    url: https://countdate.surge.sh/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
