@@ -76,17 +76,17 @@
     "url": "https://countdate.surge.sh/",
     "icon": "https://favicons.githubusercontent.com/countdate.surge.sh",
     "slug": "countdate-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 415,
-    "timeDay": 785,
-    "timeWeek": 488,
-    "timeMonth": 419,
-    "timeYear": 415,
+    "time": 410,
+    "timeDay": 605,
+    "timeWeek": 461,
+    "timeMonth": 414,
+    "timeYear": 410,
     "dailyMinutesDown": {}
   }
 ]
