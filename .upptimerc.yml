@@ -5,6 +5,12 @@ repo: uptime # The name of this repository
 sites:
   - name: sk5s.cyou
     url: https://sk5s.cyou/
+  - name: sk5s-games
+    url: https://games.sk5s.cyou/
+  - name: weread
+    url: https://weread.sk5s.cyou/
+  - name: whereisspy
+    url: https://whereisspy.web.app/
   - name: alsoweather-website
     url: https://sk5s.cyou/alsoweather/
   - name: sk5short-website
