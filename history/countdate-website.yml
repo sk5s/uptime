@@ -1,7 +1,7 @@
 url: https://countdate.surge.sh/
-status: down
-code: 503
-responseTime: 78
-lastUpdated: 2023-11-28T22:09:15.831Z
+status: up
+code: 200
+responseTime: 500
+lastUpdated: 2023-11-28T22:29:15.665Z
 startTime: 2022-05-21T13:01:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
