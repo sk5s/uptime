@@ -130,17 +130,17 @@
     "url": "https://countdate.surge.sh/",
     "icon": "https://icons.duckduckgo.com/ip3/countdate.surge.sh.ico",
     "slug": "countdate-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1036,
-    "timeDay": 1266,
-    "timeWeek": 774,
-    "timeMonth": 665,
-    "timeYear": 1079,
+    "time": 1035,
+    "timeDay": 971,
+    "timeWeek": 773,
+    "timeMonth": 663,
+    "timeYear": 1078,
     "dailyMinutesDown": {}
   }
 ]
