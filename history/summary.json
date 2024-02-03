@@ -22,7 +22,7 @@
     "url": "https://games.sk5s.cyou/",
     "icon": "https://icons.duckduckgo.com/ip3/games.sk5s.cyou.ico",
     "slug": "sk5s-games",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -120,7 +120,7 @@
     "uptimeYear": "100.00%",
     "time": 1164,
     "timeDay": 0,
-    "timeWeek": 744,
+    "timeWeek": 779,
     "timeMonth": 750,
     "timeYear": 1144,
     "dailyMinutesDown": {}
@@ -138,7 +138,7 @@
     "uptimeYear": "100.00%",
     "time": 1112,
     "timeDay": 513,
-    "timeWeek": 687,
+    "timeWeek": 715,
     "timeMonth": 658,
     "timeYear": 1078,
     "dailyMinutesDown": {}
