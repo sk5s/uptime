@@ -112,17 +112,17 @@
     "url": "https://parking-go.surge.sh/",
     "icon": "https://icons.duckduckgo.com/ip3/parking-go.surge.sh.ico",
     "slug": "parking-go-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1147,
-    "timeDay": 1709,
-    "timeWeek": 1050,
+    "time": 1136,
+    "timeDay": 1551,
+    "timeWeek": 1016,
     "timeMonth": 893,
-    "timeYear": 1139,
+    "timeYear": 1138,
     "dailyMinutesDown": {}
   },
   {
@@ -139,7 +139,7 @@
     "time": 1016,
     "timeDay": 185,
     "timeWeek": 210,
-    "timeMonth": 676,
+    "timeMonth": 678,
     "timeYear": 1041,
     "dailyMinutesDown": {}
   }
