@@ -1,7 +1,7 @@
 url: https://parking-go.surge.sh/
-status: up
-code: 200
-responseTime: 251
-lastUpdated: 2024-04-18T23:02:56.305Z
+status: down
+code: 503
+responseTime: 76
+lastUpdated: 2024-04-19T15:35:58.520Z
 startTime: 2022-05-21T13:01:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
