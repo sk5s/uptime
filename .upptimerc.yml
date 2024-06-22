@@ -18,7 +18,7 @@ sites:
   - name: parking-go-website
     url: https://parking-go.surge.sh/
   - name: countdate-website
-    url: https://app.countdate.sk5s.com/
+    url: https://app.countdate.sk5s.cyou/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
