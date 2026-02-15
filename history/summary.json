@@ -14,7 +14,7 @@
     "timeDay": 181,
     "timeWeek": 162,
     "timeMonth": 142,
-    "timeYear": 171,
+    "timeYear": 172,
     "dailyMinutesDown": {}
   },
   {
@@ -40,7 +40,7 @@
     "url": "https://games.sk5s.com/",
     "icon": "https://icons.duckduckgo.com/ip3/games.sk5s.com.ico",
     "slug": "sk5s-games",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -58,7 +58,7 @@
     "url": "https://wowcode.sk5s.com/",
     "icon": "https://icons.duckduckgo.com/ip3/wowcode.sk5s.com.ico",
     "slug": "wowcode",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
