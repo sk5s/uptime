@@ -4,21 +4,21 @@ repo: uptime # The name of this repository
 
 sites:
   - name: sk5s.com
-    url: https://sk5s.com
-  - name: sk5s.cyou
-    url: https://sk5s.cyou/
+    url: https://sk5s.com/
+  - name: twapp.sk5s.com
+    url: https://twapp.sk5s.com/
   - name: sk5s-games
     url: https://games.sk5s.com/
   - name: wowcode
     url: https://wowcode.sk5s.com/
   - name: weread
-    url: https://weread.sk5s.cyou/
+    url: https://weread.sk5s.com/
   - name: whereisspy
-    url: https://app.wis.sk5s.cyou/
+    url: https://app.wis.sk5s.com/
   - name: parking-go-website
     url: https://parking-go.surge.sh/
   - name: countdate-website
-    url: https://app.countdate.sk5s.cyou/
+    url: https://app.countdate.sk5s.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -28,7 +28,7 @@ status-website:
   logoUrl: https://i.imgur.com/3LvCEXa.png
   name: sk5s uptime
   introTitle: "**sk5s** uptime monitor and status page."
-  introMessage: '<img src="https://sk5s.cyou/sk5s/ad/sk5s-project.gif" style="width: 100%; height: auto;"></img>'
+  introMessage: '<img src="https://me.sk5s.org/ad/sk5s-project.gif" style="width: 100%; height: auto;"></img>'
   navbar:
     - title: Status
       href: /
